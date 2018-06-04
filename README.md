@@ -17,7 +17,7 @@
 ## Java
 - [Java学习相关电子书籍](https://yun.baidu.com/s/19fPTIM9dBpGBLGrqLLp5kg)
 	> 链接:`https://yun.baidu.com/s/19fPTIM9dBpGBLGrqLLp5kg` 密码:`664c`
-- [历经5年锤练--史上最适合初学者入门的Java基础视频(2015年)](https://yun.baidu.com/s/1kTBXMJ1)
+- [历经5年锤练--史上最适合初学者入门的Java基础视频)](https://yun.baidu.com/s/1kTBXMJ1)
 	> 链接:`https://yun.baidu.com/s/1kTBXMJ1` 密码:`erz9`
 
 # 服务器Linux
