@@ -21,8 +21,14 @@
 	> 链接:`https://yun.baidu.com/s/1kTBXMJ1` 密码:`erz9`
 
 # 服务器Linux
+- [Linux相关电子书](https://pan.baidu.com/s/1NVBW5ZYcckY9_qDBJveGTA)
+	> 链接：`https://pan.baidu.com/s/1NVBW5ZYcckY9_qDBJveGTA` 密码：`1f3q`
 
 # 数据库MySQL
+- [MySql相关电子书](https://pan.baidu.com/s/1ZUHSKJULWPqGYzP1f6fqBw)
+	> 链接：`https://pan.baidu.com/s/1ZUHSKJULWPqGYzP1f6fqBw` 密码：`sfpx`
+- [MySql相关学习视频]()
+	> 链接：`https://pan.baidu.com/s/1YuL4yARPf2eJ9vDhrgPgnA` 密码：`1sgu`
 
 
 > 后续慢慢去补充缺少的内容。
